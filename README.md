@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## 🛠️ Compétences
 
-- **Systèmes & Réseaux** — Administration, configuration, dépannage, cybersec
-- **Scripting** — Bash, Python
-- **Web** — HTML / CSS / JS
-- **Support** — Helpdesk, IT Support
+- **Systèmes & Réseaux**  Administration, configuration, dépannage, cybersec
+- **Scripting**  Bash, Python
+- **Web**  HTML / CSS / JS
+- **Support** Helpdesk, IT Support
 
 ---
 
