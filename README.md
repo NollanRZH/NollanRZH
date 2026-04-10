@@ -74,6 +74,7 @@
 | ⛏️ **mining-game-rex** | Jeu de minage incrémental avec système de raretés et interface moderne | HTML · CSS · JS | [Voir le repo](https://github.com/NollanRZH/mining-game-rex) |
 | 🖱️ **Menu_Contextuel_W10_W11** | Scripts .bat pour restaurer l'ancien menu clic droit de Windows 10 sous W11 | Batch | [Voir le repo](https://github.com/NollanRZH/Menu_Contextuel_W10_W11_Automatisation) |
 | 🤖 **cours-ai** | Prises de notes structurées sur les bases de l'IA | HTML | [Voir le repo](https://github.com/NollanRZH/cours-ai) |
+| 🔑 **guide-1password** | Guide d'utilisation du gestionnaire de mots de passe 1Password | HTML | [Voir le repo](https://github.com/NollanRZH/guide-1password) |
 
 ---
 
