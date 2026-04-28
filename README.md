@@ -114,7 +114,7 @@ Tu cherches un alternant motivé en systèmes & réseaux, ou tu as simplement en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nollan_D.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nollan-d-171812341/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nollanrzh.github.io-black?style=for-the-badge&logo=github)](https://nollanrzh.github.io/portfolio_nollandrg/)
-[![Email](https://img.shields.io/badge/Email-nollandroguetpro@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nollan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact.nollan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nollan@gmail.com)
 
 </div>
 
