@@ -13,15 +13,13 @@
 
 ---
 
-## 🙋 À propos de moi
+## À propos de moi
 
 Étudiant en **BTS SIO option SISR** basé en **Bretagne 🌊**, je me passionne pour tout ce qui touche à l'administration des systèmes, la sécurité réseau et l'automatisation des tâches.
 
-- 🏢 **Anciennement stagiaire chez Zeiss Vision France** support IT, infrastructure réseau
-- 🎯 **Actuellement à la recherche d'une alternance** en administration systèmes & réseaux ou helpdesk
-- 🔐 En veille active sur la **cybersécurité** et les plateformes **CTF**
-- 🛠️ Je bidouille autant que j'apprends mes repos le prouvent !
-- 📍 Bretagne, France (UTC+1)
+-  **Actuellement à la recherche d'une alternance** en administration systèmes & réseaux ou helpdesk
+-  En veille active sur la **cybersécurité** et les plateformes **CTF**
+-  Je bidouille autant que j'apprends mes repos le prouvent !
 
 ---
 
@@ -95,20 +93,16 @@ Option SISR Solutions d'Infrastructure, Systèmes et Réseaux
 
 ## 💼 Expérience
 
-### 🔬 Zeiss Vision France Stagiaire IT
-> Administration systèmes · Support utilisateurs · Infrastructure réseau
-
-Stage effectué dans le cadre du BTS SIO SISR.
 Détails disponibles sur mon [portfolio](https://nollanrzh.github.io/portfolio_nollandrg/).
 
 ---
 
 ## 🔭 Ce sur quoi je travaille en ce moment
 
-- 🌐 Amélioration continue de mon portfolio
-- 🔐 Exploration des plateformes CTF (TryHackMe, Root-Me…)
-- 🐧 Approfondissement de l'administration Linux
-- 📡 Travaux pratiques réseaux (Cisco, VLAN, routage)
+-  Amélioration continue de mon portfolio
+-  Exploration des plateformes CTF (TryHackMe, Root-Me…)
+-  Approfondissement de l'administration Linux
+-  Travaux pratiques réseaux (Cisco, VLAN, routage)
 
 ---
 
@@ -120,7 +114,7 @@ Tu cherches un alternant motivé en systèmes & réseaux, ou tu as simplement en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nollan_D.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nollan-d-171812341/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nollanrzh.github.io-black?style=for-the-badge&logo=github)](https://nollanrzh.github.io/portfolio_nollandrg/)
-[![Email](https://img.shields.io/badge/Email-nollandroguetpro@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nollandroguetpro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nollandroguetpro@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nollan@gmail.com)
 
 </div>
 
@@ -128,7 +122,7 @@ Tu cherches un alternant motivé en systèmes & réseaux, ou tu as simplement en
 
 <div align="center">
 
-*Bretagne 🌊 · BTS SIO SISR · Open to feedbacks 😁*
+*Bretagne 🌊 · Open to feedbacks 😁*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NollanRZH&color=00BFFF&style=flat-square)
 
